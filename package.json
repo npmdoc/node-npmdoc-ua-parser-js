@@ -1,17 +1,40 @@
 {
-    "buildNpmdoc":"ua-parser-js",
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "buildNpmdoc": "ua-parser-js",
+    "description": "api documentation for [ua-parser-js (v0.7.12)](http://github.com/faisalman/ua-parser-js) [![npm package](https://img.shields.io/npm/v/npmdoc-ua-parser-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ua-parser-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ua-parser-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ua-parser-js)",
     "devDependencies": {
-        "ua-parser-js": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "ua-parser-js": "*",
         "utility2": "kaizhu256/node-utility2#alpha"
     },
-    "name":"npmdoc-ua-parser-js",
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-ua-parser-js",
+    "keywords": [
+        "documentation",
+        "ua-parser-js"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_ua_parser_js.js",
+    "name": "npmdoc-ua-parser-js",
+    "nameAlias": "npmdoc_ua_parser_js",
+    "nameOriginal": "npmdoc-ua-parser-js",
+    "os": [
+        "darwin",
+        "linux"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/npmdoc/node-npmdoc-ua-parser-js.git"
     },
     "scripts": {
-        "build-ci": "utility2 shReadmeTest build_ci.sh"
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "(set -e; npm install \"kaizhu256/node-utility2#alpha\"; utility2 shDeployHeroku)",
+        "postinstall": "if [ -f npm_scripts.sh ]; then ./npm_scripts.sh postinstall; fi",
+        "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
     "version": "0.0.1"
 }
