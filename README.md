@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/ua-parser-js.png?downloads=true)](https://www.npmjs.com/package/ua-parser-js)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ua-parser-js_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ua-parser-js_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/screenCapture.npmPackageListing.svg)
 
