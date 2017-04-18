@@ -1,9 +1,13 @@
-# api documentation for  [ua-parser-js (v0.7.12)](http://github.com/faisalman/ua-parser-js)  [![npm package](https://img.shields.io/npm/v/npmdoc-ua-parser-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ua-parser-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ua-parser-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ua-parser-js)
+# npmdoc-ua-parser-js
+
+api documentation for  [ua-parser-js (v0.7.12)](http://github.com/faisalman/ua-parser-js)  [![npm package](https://img.shields.io/npm/v/npmdoc-ua-parser-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ua-parser-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ua-parser-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ua-parser-js)
 #### Lightweight JavaScript-based user-agent string parser
 
-[![NPM](https://nodei.co/npm/ua-parser-js.png?downloads=true)](https://www.npmjs.com/package/ua-parser-js)
+[![NPM](https://nodei.co/npm/ua-parser-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ua-parser-js)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ua-parser-js_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ua-parser-js/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +22,6 @@
 {
     "author": {
         "name": "Faisal Salman",
-        "email": "fyzlman@gmail.com",
         "url": "http://faisalman.com"
     },
     "bugs": {
@@ -26,100 +29,76 @@
     },
     "contributors": [
         {
-            "name": "Faisal Salman",
-            "email": "fyzlman@gmail.com"
+            "name": "Faisal Salman"
         },
         {
-            "name": "Benjamin Bertrand",
-            "email": "bertrand.design@gmail.com"
+            "name": "Benjamin Bertrand"
         },
         {
-            "name": "Carl C Von Lewin",
-            "email": "carlchristianlewin@gmail.com"
+            "name": "Carl C Von Lewin"
         },
         {
-            "name": "Christopher De Cairos",
-            "email": "chris.decairos@gmail.com"
+            "name": "Christopher De Cairos"
         },
         {
-            "name": "Davit Barbakadze",
-            "email": "jayarjo@gmail.com"
+            "name": "Davit Barbakadze"
         },
         {
-            "name": "Dmitry Tyschenko",
-            "email": "dtyschenko@gmail.com"
+            "name": "Dmitry Tyschenko"
         },
         {
-            "name": "Douglas Li",
-            "email": "doug@knotch.it"
+            "name": "Douglas Li"
         },
         {
-            "name": "Dumitru Uzun",
-            "email": "contact@duzun.me"
+            "name": "Dumitru Uzun"
         },
         {
-            "name": "Erik Hesselink",
-            "email": "hesselink@gmail.com"
+            "name": "Erik Hesselink"
         },
         {
-            "name": "Fabian Becker",
-            "email": "halfdan@xnorfz.de"
+            "name": "Fabian Becker"
         },
         {
-            "name": "Hendrik Helwich",
-            "email": "h.helwich@iplabs.de"
+            "name": "Hendrik Helwich"
         },
         {
-            "name": "Jackpoll",
-            "email": "jackpoll123456@gmail.com"
+            "name": "Jackpoll"
         },
         {
-            "name": "Jake Mc",
-            "email": "startswithaj@users.noreply.github.com"
+            "name": "Jake Mc"
         },
         {
-            "name": "John Tantalo",
-            "email": "john.tantalo@gmail.com"
+            "name": "John Tantalo"
         },
         {
-            "name": "John Yanarella",
-            "email": "jmy@codecatalyst.com"
+            "name": "John Yanarella"
         },
         {
-            "name": "Jon Buckley",
-            "email": "jon@jbuckley.ca"
+            "name": "Jon Buckley"
         },
         {
-            "name": "Kendall Buchanan",
-            "email": "kendall@kendagriff.com"
+            "name": "Kendall Buchanan"
         },
         {
-            "name": "Lee Treveil",
-            "email": "leetreveil@gmail.com"
+            "name": "Lee Treveil"
         },
         {
-            "name": "Leonardo",
-            "email": "leofiore@libero.it"
+            "name": "Leonardo"
         },
         {
-            "name": "Max Maurer",
-            "email": "maxemanuel.maurer@gmail.com"
+            "name": "Max Maurer"
         },
         {
-            "name": "Michael Hess",
-            "email": "mhess@connectify.me"
+            "name": "Michael Hess"
         },
         {
-            "name": "OtakuSiD",
-            "email": "otakusid@gmail.com"
+            "name": "OtakuSiD"
         },
         {
-            "name": "Ross Noble",
-            "email": "rosshnoble@gmail.com"
+            "name": "Ross Noble"
         },
         {
-            "name": "Sandro Sonntag",
-            "email": "sandro.sonntag@adorsys.de"
+            "name": "Sandro Sonntag"
         }
     ],
     "dependencies": {},
@@ -158,13 +137,11 @@
     "main": "src/ua-parser.js",
     "maintainers": [
         {
-            "name": "faisalman",
-            "email": "fyzlman@gmail.com"
+            "name": "faisalman"
         }
     ],
     "name": "ua-parser-js",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/faisalman/ua-parser-js.git"
@@ -191,77 +168,6 @@
         ]
     }
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ua-parser-js](#apidoc.module.ua-parser-js)
-1.  [function <span class="apidocSignatureSpan">ua-parser-js.</span>UAParser (uastring, extensions)](#apidoc.element.ua-parser-js.UAParser)
-1.  object <span class="apidocSignatureSpan">ua-parser-js.</span>BROWSER
-1.  object <span class="apidocSignatureSpan">ua-parser-js.</span>CPU
-1.  object <span class="apidocSignatureSpan">ua-parser-js.</span>DEVICE
-1.  object <span class="apidocSignatureSpan">ua-parser-js.</span>ENGINE
-1.  object <span class="apidocSignatureSpan">ua-parser-js.</span>OS
-1.  string <span class="apidocSignatureSpan">ua-parser-js.</span>VERSION
-
-
-
-# <a name="apidoc.module.ua-parser-js"></a>[module ua-parser-js](#apidoc.module.ua-parser-js)
-
-#### <a name="apidoc.element.ua-parser-js.UAParser"></a>[function <span class="apidocSignatureSpan">ua-parser-js.</span>UAParser (uastring, extensions)](#apidoc.element.ua-parser-js.UAParser)
-- description and source-code
-```javascript
-UAParser = function (uastring, extensions) {
-
-    if (!(this instanceof UAParser)) {
-        return new UAParser(uastring, extensions).getResult();
-    }
-
-    var ua = uastring || ((window && window.navigator && window.navigator.userAgent) ? window.navigator.userAgent : EMPTY);
-    var rgxmap = extensions ? util.extend(regexes, extensions) : regexes;
-
-    this.getBrowser = function () {
-        var browser = mapper.rgx.apply(this, rgxmap.browser);
-        browser.major = util.major(browser.version);
-        return browser;
-    };
-    this.getCPU = function () {
-        return mapper.rgx.apply(this, rgxmap.cpu);
-    };
-    this.getDevice = function () {
-        return mapper.rgx.apply(this, rgxmap.device);
-    };
-    this.getEngine = function () {
-        return mapper.rgx.apply(this, rgxmap.engine);
-    };
-    this.getOS = function () {
-        return mapper.rgx.apply(this, rgxmap.os);
-    };
-    this.getResult = function() {
-        return {
-            ua      : this.getUA(),
-            browser : this.getBrowser(),
-            engine  : this.getEngine(),
-            os      : this.getOS(),
-            device  : this.getDevice(),
-            cpu     : this.getCPU()
-        };
-    };
-    this.getUA = function () {
-        return ua;
-    };
-    this.setUA = function (uastring) {
-        ua = uastring;
-        return this;
-    };
-    return this;
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
